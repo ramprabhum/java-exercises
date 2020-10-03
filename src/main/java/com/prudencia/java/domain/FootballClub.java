@@ -1,4 +1,4 @@
-package com.prudencia.java.lamda;
+package com.prudencia.java.domain;
 
 import lombok.*;
 import lombok.experimental.Accessors;
@@ -10,7 +10,8 @@ import lombok.experimental.Accessors;
 @AllArgsConstructor
 @Setter
 @Getter
-public class Team {
+@Builder
+public class FootballClub {
     private String team_name;
     private String team_position;
     private int team_points;
