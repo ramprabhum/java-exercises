@@ -42,6 +42,7 @@ public class MapFunctions {
         mapFunctions.add(1);
         mapFunctions.add(2);
         mapFunctions.printMap();
+
         System.out.println( mapFunctions.find(8));
 
     }
