@@ -1,9 +1,7 @@
-package com.prudencia.java.domain;
+package com.prudencia.java.collections.map;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
-import java.util.Set;
 
 public class MapFunctions {
 
